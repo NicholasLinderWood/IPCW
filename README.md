@@ -7,7 +7,7 @@ DESCRIPTION OF FILES:
 
 Generate Data Set.py - Script that creates three data sets. A "MasterFile" from which are created an "A" file and a "B" file. These files are formatted in such a way to be used for Kaplan-Meier/IPCW survival analysis. See the file for additional details.
 
-Generate_Master_File.py - Generate Data Set.py
+Generate_Master_File.py - Used by Generate Data Set.py
 
 Convert_Master_File_to_A_and_B_Files.py - Used by Generate Data Set.py
 
